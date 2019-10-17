@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.6.4"
+  },
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "build": "tsc"
+  }
+}
